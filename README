@@ -1,0 +1,6 @@
+PassengerDeploy
+===============
+
+This plugin replace capistrano's default deploy:restart with `touch tmp/restart.txt`.
+
+Copyright (c) 2009 Hiroshi Saito (yakitara.com), released under the MIT license
